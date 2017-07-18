@@ -1,0 +1,35 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "~1.17.2",
+        "cookie-parser": "~1.4.3",
+        "cors": "~2.8.4",
+        "crypto-js": "~3.1.9-1",
+        "debug": "~2.6.8",
+        "dotenv": "~4.0.0",
+        "express": "^4.15.3",
+        "jade": "~1.11.0",
+        "jsonwebtoken": "~7.4.1",
+        "lodash": "~4.17.4",
+        "moment": "~2.18.1",
+        "morgan": "~1.8.2",
+        "mssql": "^4.0.4",
+        "node-gcm": "~0.14.6",
+        "q": "~1.5.0",
+        "serve-favicon": "~2.4.3",
+        "hapi": "~16.4.3",
+        "hapi-auth-jwt2": "~7.3.0"
+
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
